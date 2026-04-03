@@ -1,159 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>YouTube Title Generator</title>
+# 💫 About Me:
+🚀 I’m currently working on<br>Building high-retention YouTube content for a US audience while developing small tools and systems using code to automate parts of my workflow.<br><br>🤝 I’m looking to collaborate on<br>Web development, AI-based tools, and automation projects that solve real-world problems.<br><br>🧠 I’m looking for help with<br>Improving backend logic, working with APIs, and building scalable projects.<br><br>🌱 I’m currently learning<br>JavaScript, APIs, and how to integrate AI into real-world applications alongside advanced video editing.<br><br>💬 Ask me about<br>YouTube growth, content systems, beginner coding journey, and AI tools.<br><br>⚡ Fun fact<br>I focus on building systems — not just content.
 
-<style>
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Segoe UI', sans-serif;
-}
 
-body {
-  background: linear-gradient(135deg, #0f172a, #020617);
-  color: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@usacarvault) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jangrahimanshu076@gmail.com) 
 
-.container {
-  width: 420px;
-  padding: 30px;
-  border-radius: 16px;
-  background: rgba(30, 41, 59, 0.7);
-  backdrop-filter: blur(12px);
-  box-shadow: 0 20px 60px rgba(0,0,0,0.5);
-  text-align: center;
-}
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Himanshujangra400&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Himanshujangra400&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshujangra400&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-h1 {
-  margin-bottom: 10px;
-  font-size: 26px;
-}
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Himanshujangra400&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-p {
-  color: #94a3b8;
-  margin-bottom: 20px;
-}
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-input {
-  width: 100%;
-  padding: 14px;
-  border-radius: 10px;
-  border: none;
-  outline: none;
-  margin-bottom: 15px;
-  font-size: 16px;
-}
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Himanshujangra400&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-button {
-  width: 100%;
-  padding: 14px;
-  border: none;
-  border-radius: 10px;
-  background: linear-gradient(45deg, #22c55e, #4ade80);
-  color: black;
-  font-weight: bold;
-  cursor: pointer;
-  transition: 0.3s;
-}
+---
+[![](https://visitcount.itsvg.in/api?id=Himanshujangra400&icon=0&color=0)](https://visitcount.itsvg.in)
 
-button:hover {
-  transform: scale(1.05);
-}
-
-#results {
-  margin-top: 20px;
-  text-align: left;
-  max-height: 250px;
-  overflow-y: auto;
-}
-
-.title {
-  background: #334155;
-  padding: 10px;
-  border-radius: 8px;
-  margin-bottom: 10px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.copy {
-  background: #22c55e;
-  border: none;
-  padding: 5px 8px;
-  border-radius: 6px;
-  cursor: pointer;
-  font-size: 12px;
-}
-</style>
-
-</head>
-<body>
-
-<div class="container">
-  <h1>🚀 Title Generator</h1>
-  <p>Create high-retention YouTube titles</p>
-
-  <input id="topic" type="text" placeholder="Enter topic (e.g. Mustang Engine)" />
-
-  <button onclick="generateTitles()">Generate Titles</button>
-
-  <div id="results"></div>
-</div>
-
-<script>
-function generateTitles() {
-  const topic = document.getElementById("topic").value;
-  const results = document.getElementById("results");
-
-  if (!topic) {
-    results.innerHTML = "<p>Enter a topic first.</p>";
-    return;
-  }
-
-  const templates = [
-    `The Truth About ${topic} Nobody Tells You`,
-    `Why ${topic} is Changing Everything`,
-    `The Dark Side of ${topic}`,
-    `${topic} Explained in 60 Seconds`,
-    `This ${topic} Will Blow Your Mind`,
-    `Top Secrets About ${topic}`,
-    `How ${topic} Became So Powerful`,
-    `${topic} vs Reality – What’s True?`
-  ];
-
-  results.innerHTML = "";
-
-  templates.forEach(title => {
-    const div = document.createElement("div");
-    div.className = "title";
-
-    const text = document.createElement("span");
-    text.innerText = title;
-
-    const btn = document.createElement("button");
-    btn.innerText = "Copy";
-    btn.className = "copy";
-    btn.onclick = () => {
-      navigator.clipboard.writeText(title);
-      btn.innerText = "Copied!";
-      setTimeout(() => btn.innerText = "Copy", 1000);
-    };
-
-    div.appendChild(text);
-    div.appendChild(btn);
-    results.appendChild(div);
-  });
-}
-</script>
-
-</body>
-</html>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
