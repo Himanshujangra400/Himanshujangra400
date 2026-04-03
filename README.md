@@ -48,7 +48,7 @@
 ### 🥛 Dairy Management System (DM)
 - Manage clients, milk entries, settlements, payments & reports
 - Tech: React + Vite + Tailwind, Node.js + Express, SQLite
-- Live: https://dm-mocha.vercel.app
+- Live: [https://dm-mocha.vercel.app](https://dm-omega-dusky.vercel.app/#/login)
 - Repo: https://github.com/gauravkataria00/dm
 
 ### 🎓 EduVault (Budha College)
