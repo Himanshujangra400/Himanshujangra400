@@ -45,7 +45,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshujangra400&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshujangra400&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
   <img src="https://streak-stats.demolab.com?user=Himanshujangra400&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
@@ -53,7 +53,7 @@
 
 ## 🧠 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshujangra400&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshujangra400&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
