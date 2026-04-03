@@ -1,27 +1,83 @@
-# 💫 About Me:
-🚀 I’m currently working on<br>Building high-retention YouTube content for a US audience while developing small tools and systems using code to automate parts of my workflow.<br><br>🤝 I’m looking to collaborate on<br>Web development, AI-based tools, and automation projects that solve real-world problems.<br><br>🧠 I’m looking for help with<br>Improving backend logic, working with APIs, and building scalable projects.<br><br>🌱 I’m currently learning<br>JavaScript, APIs, and how to integrate AI into real-world applications alongside advanced video editing.<br><br>💬 Ask me about<br>YouTube growth, content systems, beginner coding journey, and AI tools.<br><br>⚡ Fun fact<br>I focus on building systems — not just content.
+<h1 align="center">Hi 👋, I'm Himanshu</h1>
 
-
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@usacarvault) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jangrahimanshu076@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Himanshujangra400&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Himanshujangra400&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshujangra400&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Himanshujangra400&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Himanshujangra400&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Content+Creator+%F0%9F%9A%80;Aspiring+Developer+%F0%9F%92%BB;Building+Systems+Not+Just+Videos" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Himanshujangra400&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+- 🎯 Building a YouTube channel for a US audience (high-retention storytelling)
+- 🧠 Learning **JavaScript, APIs & Automation**
+- 🤖 Using **AI tools + editing workflows**
+- 🔥 Focused on systems, not shortcuts
+
+---
+
+## ⚡ Current Focus
+- Building tools for content automation  
+- Improving storytelling & retention  
+- Creating real-world coding projects  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 🎬 Creator Stack
+- 🎥 Editing: CapCut / Premiere Pro  
+- 🤖 AI Tools: Veo, Automation Tools  
+- 🎨 Design: Canva / Figma  
+
+---
+
+## 🚀 Featured Project
+### 🔥 YouTube Title Generator
+- Generate high-retention titles instantly  
+- Copy button + clean UI  
+- Built using HTML, CSS, JavaScript  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🧠 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: yourmail@gmail.com  
+- 🎬 YouTube: USA Car Vault  
+
+---
+
+## ⚡ Mindset
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=22c55e&style=flat" />
+</p>
