@@ -59,7 +59,7 @@
   - Note: project code is inside `budha-college/` folder in the repo
 
 ### 🌐 Elite5
-- Live: https://elite5-beta.vercel.app
+- Live:[ https://elite5-beta.vercel.app](https://elite5-self.vercel.app/index.html)
 - Repo: https://github.com/gauravkataria00/Elite5
 
 ---
