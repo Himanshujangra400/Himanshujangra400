@@ -1,29 +1,23 @@
-N<h1 align="center">Hi 👋, I'm Himanshu</h1>
+<h1 align="center">Hi 👋, I'm Himanshu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=Content+Creator+%F0%9F%9A%80;Developer+in+Progress+%F0%9F%92%BB;Building+Systems+Not+Just+Content" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Content+Creator+%F0%9F%9A%80;Aspiring+Developer+%F0%9F%92%BB;Building+Systems+Not+Just+Videos" />
 </p>
 
 ---
 
-<p align="center">
-  🚀 YouTube Creator • 💻 Learning Developer • 🤖 AI Explorer
-</p>
+## 🚀 About Me
+- 🎯 Building a YouTube channel for a US audience (high-retention storytelling)
+- 🧠 Learning **JavaScript, APIs & Automation**
+- 🤖 Using **AI tools + editing workflows**
+- 🔥 Focused on systems, not shortcuts
 
 ---
 
-## 🧠 About Me
-- 🎯 Building a **US audience YouTube channel** (high-retention storytelling)
-- ⚙️ Creating **automation systems** using code + AI
-- 📚 Currently learning **JavaScript, APIs, and real-world development**
-- 🔥 Focused on **consistency, systems, and long-term growth**
-
----
-
-## 🚀 What I'm Building
-- 🎬 Content systems for YouTube automation  
-- 🤖 AI-powered tools for creators  
-- 💻 Beginner-friendly real-world coding projects  
+## ⚡ Current Focus
+- Building tools for content automation  
+- Improving storytelling & retention  
+- Creating real-world coding projects  
 
 ---
 
@@ -34,48 +28,49 @@ N<h1 align="center">Hi 👋, I'm Himanshu</h1>
 
 ---
 
-## 🎬 Creator Toolkit
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
+## 🎬 Creator Stack
 - 🎥 Editing: CapCut / Premiere Pro  
 - 🤖 AI Tools: Veo, Automation Tools  
+- 🎨 Design: Canva / Figma  
 
 ---
 
 ## 🚀 Featured Project
 ### 🔥 YouTube Title Generator
-
-✨ Generate high-retention titles instantly  
-⚡ Copy button included  
-🎯 Built with HTML, CSS, JavaScript  
+- Generate high-retention titles instantly  
+- Copy button + clean UI  
+- Built using HTML, CSS, JavaScript  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshujangra400&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Himanshujangra400&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshujangra400&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Himanshujangra400&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🧠 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshujangra400&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
-<p align="center">
-  📧 jangrahimanshu076@gmail.com <br>
-  🎬 USA Car Vault
-</p>
+- 📧 Email: jangrahimanshu076@gmail.com  
+- 🎬 YouTube: USA Car Vault  
 
 ---
 
 ## ⚡ Mindset
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Himanshujangra400&label=Profile+Views&color=00ffaa&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Himanshujangra400&label=Profile+Views&color=22c55e&style=flat" />
 </p>
