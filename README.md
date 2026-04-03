@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Himanshujangra400&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
-  <!-- <img src="https://streak-stats.demolab.com?user=Himanshujangra400&theme=tokyonight&hide_border=true" height="150"/> -->
+  <img src="https://streak-stats.demolab.com?user=Himanshujangra400&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
