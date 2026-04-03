@@ -45,22 +45,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu jangra&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu jangra&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshujangra400&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshujangra400&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ## 🧠 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu jangra&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Himanshu jangra&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshujangra400&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -79,5 +72,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Himanshu jangra&label=Profile+Views&color=22c55e&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Himanshujangra400&label=Profile+Views&color=22c55e&style=flat" />
 </p>
