@@ -35,9 +35,9 @@
 
 ---
 
-## 🚀 Featured Project
-### 🔥 YouTube Title Generator
-- Generate high-retention titles instantly  
+## 🚀 YT downlaod Project
+### 🔥 YouTube Video Downoader
+- Check repo.=https://github.com/Himanshujangra400/youtube-video-downloader
 - Copy button + clean UI  
 - Built using HTML, CSS, JavaScript  
 
